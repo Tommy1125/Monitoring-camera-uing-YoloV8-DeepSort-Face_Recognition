@@ -25,9 +25,9 @@
   <section>
     <h2>Features</h2>
     <ul>
-      <li>Motion Detection: Detects people, cars, bikes, and bicycles in real-time.</li>
-      <li>Tracking: Tracks the detected objects and analyzes their movements.</li>
-      <li>Facial Recognition: Executes facial recognition using the captured screenshots.</li>
+      <li>Object Detection: Detects people, cars, bikes, and bicycles in real-time by Yolov8.</li>
+      <li>Tracking: Tracks the detected objects and analyzes their movements by DeepSort.</li>
+      <li>Facial Recognition: Executes facial recognition using the captured screenshots by Face_recognition.</li>
       <li>Alert Notifications: Sends notifications to a registered email if an unknown face is detected.</li>
     </ul>
   </section>
