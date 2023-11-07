@@ -5,13 +5,7 @@
 <head>
 <meta charset="UTF-8">
 <title>Surveillance System README</title>
-<style>
-  body { font-family: Arial, sans-serif; line-height: 1.6; }
-  .container { width: 80%; margin: auto; padding-top: 20px; }
-  h1 { color: #333; }
-  p, li { margin: 10px 0; }
-  .alert { color: red; }
-</style>
+
 </head>
 <body>
 
